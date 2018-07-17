@@ -1,10 +1,3 @@
-<!--
-README Template (v1.0.0)
-Clean README template with centre aligned header
-
-https://github.com/jamieweavis/readme-template
--->
-
 <p align="center"><img src="https://twemoji.maxcdn.com/2/svg/1f4dd.svg" height="64" alt="Project Logo"></p>
 <h3 align="center">README Template</h3>
 <p align="center">📝 Clean README template with centre aligned header</p>
