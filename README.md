@@ -2,18 +2,10 @@
 <h3 align="center">README Template</h3>
 <p align="center">📝 Clean README template with centre aligned header</p>
 <p align="center">
-    <a href="https://github.com/jamieweavis/readme-template/releases">
-    	<img src="https://img.shields.io/github/downloads/jamieweavis/readme-template/total.svg" alt="GitHub Downloads">
-	</a>
-    <a href="https://github.com/jamieweavis/streaker/releases/latest">
-    	<img src="https://img.shields.io/github/release/jamieweavis/readme-template.svg" alt="Latest Release">
-	</a>
-    <a href="https://github.com/jamieweavis/readme-template/blob/master/LICENSE.md">
-    	<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub License">
-	</a>
-    <a href="https://github.com/jamieweavis/readme-template/issues">
-    	<img src="https://img.shields.io/badge/contributions-welcome-ff69b4.svg" alt="Contributions Welcome">
-	</a>
+    <a href="https://github.com/jamieweavis/readme-template/releases"><img src="https://img.shields.io/github/downloads/jamieweavis/readme-template/total.svg" alt="GitHub Downloads"></a>
+    <a href="https://github.com/jamieweavis/streaker/releases/latest"><img src="https://img.shields.io/github/release/jamieweavis/readme-template.svg" alt="Latest Release"></a>
+    <a href="https://github.com/jamieweavis/readme-template/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
+    <a href="https://github.com/jamieweavis/readme-template/issues"><img src="https://img.shields.io/badge/contributions-welcome-ff69b4.svg" alt="Contributions Welcome"></a>
 </p>
 
 ## Installation
